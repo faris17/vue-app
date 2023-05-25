@@ -1,6 +1,6 @@
 # Vue App
 
-This for learn vue 3
+This for learn vue 3 <br>
 check in youtube: https://www.youtube.com/playlist?list=PLSrCeSrrFkMUUfyXXXxNrgxQR1nL9pRP8
 
 ## Recommended IDE Setup
